@@ -1,0 +1,33 @@
+# Large/private assets
+models/
+image/
+images/
+checkpoints/
+results/
+GPT_Results/
+Results/
+DrVD-Bench/
+
+# Model/checkpoint formats
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Runtime artifacts
+*.log
+*.out
+*.err
+__pycache__/
+*.pyc
+.cache/
+.DS_Store
+wandb/
+tmp/
+
+# Secrets
+.env
+*.key
+*secret*

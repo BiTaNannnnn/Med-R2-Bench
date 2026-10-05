@@ -1,0 +1,20 @@
+{
+  "test_files": 5,
+  "train_files": 5,
+  "jsonl_rows": {
+    "test/visual_evidence_Level1.jsonl": 2640,
+    "test/visual_evidence_Level3.jsonl": 7316,
+    "test/visual_evidence_Level4.jsonl": 11140,
+    "test/visual_evidence_Level5.jsonl": 600,
+    "test/visual_evidence_joint_qa.jsonl": 500,
+    "train/visual_evidence_Level1.jsonl": 5184,
+    "train/visual_evidence_Level3.jsonl": 14152,
+    "train/visual_evidence_Level4.jsonl": 25557,
+    "train/visual_evidence_Level5.jsonl": 30320,
+    "train/visual_evidence_joint_qa.jsonl": 2588
+  },
+  "jsonl_paths_redacted": 99997,
+  "dataprocess_py": 41,
+  "metric_py": 6,
+  "compare_py": 15
+}
