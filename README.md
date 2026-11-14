@@ -9,6 +9,7 @@
   <img alt="Task" src="https://img.shields.io/badge/Task-Medical%20VLM%20Reasoning-green">
   <img alt="Data" src="https://img.shields.io/badge/Data-99%2C997%20QA%20Samples-orange">
   <img alt="Release" src="https://img.shields.io/badge/Release-Cleaned%20Public%20Package-purple">
+  <a href="https://huggingface.co/datasets/BiTaNan/Med-R2-Bench"><img alt="Hugging Face Dataset" src="https://img.shields.io/badge/Hugging%20Face-Dataset-yellow"></a>
 </p>
 
 Med-R2 Bench is a cleaned public release package for the EMNLP 2026 paper:
@@ -16,6 +17,10 @@ Med-R2 Bench is a cleaned public release package for the EMNLP 2026 paper:
 > **Med-R2: An Adversarial Benchmark for Evidence-Grounded Reasoning in Medical VLMs**
 
 The benchmark is designed to evaluate whether medical vision-language models can reason from visual evidence rather than relying on superficial language priors. It includes multi-level adversarial QA, evidence-grounded image understanding, and clinical-report generation tasks.
+
+📦 **Dataset release:** [BiTaNan/Med-R2-Bench on Hugging Face](https://huggingface.co/datasets/BiTaNan/Med-R2-Bench)
+
+This GitHub repository contains the benchmark code, evaluation scripts, prompts, and release documentation. The Hugging Face repository contains the data release: train/test JSONL annotations and the referenced public image files.
 
 ---
 
